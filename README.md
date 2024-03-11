@@ -1,3 +1,3 @@
 # Roles
 
-from collaborator
+from collaborator -1
